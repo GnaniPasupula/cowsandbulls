@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045194990643",
+    "project_id": "cowsandbulls-a9494",
+    "storage_bucket": "cowsandbulls-a9494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045194990643:android:c78aaa6fc9ce8740afaf46",
+        "android_client_info": {
+          "package_name": "com.example.cowsandbulls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045194990643-g9fl3d47jj6a2fdolktr81q96rekpco7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHd5uxKt3qbZvO8AYNnve1d3n_mIC1jbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045194990643-g9fl3d47jj6a2fdolktr81q96rekpco7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
